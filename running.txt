@@ -1,0 +1,3 @@
+To run the test_program run below 
+Replace it with correponding machine code 
+./simulator tests/test_program.mc
